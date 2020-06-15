@@ -4,7 +4,7 @@ welcome to lw cloud
 <pre>
 <?php
 
-print`ipconfig`
+print`ifconfig`;
 
 ?>
 </pre>
